@@ -47,8 +47,4 @@ Hi, I'm Mohammed Islam Gharbi a Flutter developer , MEAN STACK developer and jun
 
 </div>
 
-<img src="https://wakatime.com/share/@gmi63/5a1d5bca-7a73-4f63-bda8-3e646a8e64dc.svg"></img>
-<br>
-<img src="https://wakatime.com/share/@gmi63/52b38cc2-d217-451a-b213-e7df9e8a3c6d.svg"></img>
-<br>
-<img src="https://wakatime.com/share/@gmi63/7fc10494-944f-43d9-9822-be2ee1a5a444.svg"></img>
+<figure><embed src="https://wakatime.com/share/@7dd398e9-cdc2-4e38-8708-98f5d2377112/d62898b1-1522-41df-9d08-494f880fe25c.svg"></embed></figure>
