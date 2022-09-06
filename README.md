@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm Mohammed Islam Gharbi a Flutter developer , MEAN STACK developer and junior DATA scientist.
+Hi, I'm Mohammed Islam Gharbi a Flutter developer , MERN STACK developer and junior DATA scientist.
 
 
 - 💬 Ask me about anything, I am happy to help
